@@ -31,3 +31,5 @@ resource "google_compute_instance" "default" {
    }
  }
 }
+
+# Modified [main.tf] on [2020-11-30 14:36:23.502840]
